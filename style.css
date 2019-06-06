@@ -47,12 +47,20 @@ header{
     margin-right: auto;
     width: 100%;
 }
-figcaption{
-    font-size: small;
-    width: 100%;
-    color:gray;
-    
+/* caption one*/
 
+#ca-one{
+    font-size: 15px;
+    text-align: left;
+    width: 75%;
+    color: #666666;
+}
+#ca-two{
+    font-size: 15px;
+    text-align: left;
+    margin-right: 7px;
+    color: #666666;
+    
 }
 
 section{
@@ -105,4 +113,11 @@ a:hover{
 .iconsdate i{
     width: 34px;
    
+}
+
+/* caption- version */
+#ca-version{
+    font-size: 12px;
+    text-align: left;
+    margin-right: 7px;
 }
