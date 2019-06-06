@@ -7,6 +7,7 @@
 
 body{
     background: white;
+    justify-content: center;
 }
 .bottom{
     height: 400px;
@@ -26,22 +27,46 @@ header{
 }
 
 .title-photo{
-    
-    height: 800px;
+    width:70%;
     background: white;
     display: block;
-    text-align: center;
+    
+    margin:auto;
+    
+}
+.title-photo h1{
+    font-family: "Times New Roman", Times, serif;
+    text-align: left;
+    margin-left:20%;
+    width: 600px;
     
 }
 .title-photo img{
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
+}
+figcaption{
+    font-size: small;
+    width: 100%;
+    color:gray;
+    
+
 }
 
 section{
-    height: 500px;
-    background: green;
+    width:550px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top:20px;
+    font-size: 1.1875rem;
+
 }
+
+.info{
+    display:block;
+}
+
 .footer{
     height: 50px;
     width: 100%;
