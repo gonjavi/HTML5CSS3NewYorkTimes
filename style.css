@@ -19,6 +19,35 @@ header{
     width: 100%;
     height: 40px;
     background: red;
+    display: inline-block;
+    position: fixed;
+}
+.bar{
+    margin-top:5px;
+    margin-left: 5px;
+    
+    display:inline-block;
+    vertical-align: middle;
+    
+}
+
+.first{
+    float:left;
+    vertical-align: middle;
+    
+}
+.first img{
+    width: 20px;
+    vertical-align: middle;
+    margin-right: 15px;
+
+}
+
+.first i{
+    width: 20px;
+    vertical-align: middle;
+    margin-right: 15px;
+
 }
 
 .slide{
