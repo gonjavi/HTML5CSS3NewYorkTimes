@@ -27,9 +27,15 @@ header{
 
 .title-photo{
     
-    height: 500px;
-    background: blue;
+    height: 800px;
+    background: white;
+    display: block;
+    text-align: center;
     
+}
+.title-photo img{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 section{
