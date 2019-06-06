@@ -22,7 +22,7 @@ header{
 
 .slide{
     width: 100%;
-    background: gray;
+    background-color: rgb(247, 247, 247);
     height: 300px;
 }
 
@@ -55,12 +55,21 @@ figcaption{
 }
 
 section{
-    width:550px;
+    width:600px;
     margin-left:auto;
     margin-right: auto;
     margin-top:20px;
     font-size: 1.1875rem;
 
+}
+
+a [rel="pdecoration"]{
+    text-decoration: underline !important;
+}
+
+a:hover{
+
+    text-decoration: none;
 }
 
 .info{
