@@ -9,6 +9,7 @@ body{
     background: white;
     justify-content: center;
 }
+
 .bottom{
     height: 400px;
     background: blue;
@@ -60,7 +61,11 @@ section{
     margin-right: auto;
     margin-top:20px;
     font-size: 1.1875rem;
-
+    display:block;
+}
+section p{
+    margin-top: 10px;
+    text-align: justify;
 }
 
 a [rel="pdecoration"]{
@@ -74,10 +79,30 @@ a:hover{
 
 .info{
     display:block;
+    font-size: 15px;
 }
+
+.info a{
+    text-decoration:underline;
+    color:gray;
+}
+
+.info a:hover{
+    text-decoration: none;
+    color:gray;
+}
+
 
 .footer{
     height: 50px;
     width: 100%;
     background: black;
+}
+
+.iconsdate{
+    float: right;
+}
+.iconsdate i{
+    width: 34px;
+   
 }
