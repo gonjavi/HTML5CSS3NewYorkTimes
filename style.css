@@ -257,3 +257,22 @@ a:hover{
     width: 180px;
 
 }
+.story{
+    background-image: url(/img/image.png);
+    background-size: cover;
+    display: inline-block;
+    width: 725px;
+}
+.story p{
+    width: 120px;
+    font-size: x-small;
+    float: left;
+    margin-top:15%;
+}
+.articlee1{
+    width:100%;
+    margin-left: 25%;
+    vertical-align: middle;
+    display: inline-block;
+    padding-top: 25px;
+}
