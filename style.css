@@ -144,7 +144,7 @@ section p{
 
 }
 
-a [rel="pdecoration"]{
+a [rel|="pdecoration"]{
     text-decoration: underline !important;
 }
 
@@ -196,7 +196,7 @@ a:hover{
     margin-right: auto;
     margin-top:20px;
     font-size: 1.1875rem;
-    }
+}
     
     .sidebar{
     
@@ -227,10 +227,33 @@ a:hover{
         margin-top:5px;
         float:left;
     }
-    .articlee{
+.articlee{
     width: 635px;
     margin-left: 25%;
     vertical-align: middle;
     display: inline-block;
     padding-top: 25px;
-    }
+}
+
+
+.sidebar2{
+    display:inline-block;
+    width: 150px;
+    font-size: 13px;
+    color: #666666;
+    margin-left: 8%;
+    vertical-align: middle;
+}
+.sidebar2 h6{
+    color: black;
+}
+.button3{
+    margin-right: 30px;
+    background: #6288A5;
+    color: #ffffff;
+    padding: 11px 12px 8px;
+    border-radius: 8%;
+    font-size: 11px;
+    width: 180px;
+
+}
