@@ -12,7 +12,7 @@ body{
 
 .bottom{
     height: 400px;
-    background: blue;
+    background: white;
 }
 
 header{
@@ -172,7 +172,7 @@ a:hover{
 .footer{
     height: 50px;
     width: 100%;
-    background: black;
+    background: white;
 }
 
 .iconsdate{
@@ -279,6 +279,7 @@ a:hover{
     padding-top: 25px;
 }
 
+/* bottom   section*/
 .bottom{
     margin: 0 34.9px;
     padding: 0 40.51px;
@@ -300,8 +301,26 @@ a:hover{
 .sections{
     width: 1200px;
     height: 337px;
-    
+    display: inline;
     margin-top: 10px;
 
 }
+.section-a{
+    float: left;
+    width: 197.3px;
+    height: 337px;
+}
+/*h3 sections*/
+.sec-titles{
+    color: #333333;
+	font-size: 13px;
+}
+.in-list{
+	color:	#000000;
+	font-size: 14px;
+	
+}
 
+.sec-right{
+
+}
