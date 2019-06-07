@@ -26,15 +26,16 @@ header{
 .bar{
     margin-top:5px;
     margin-left: 5px; 
-    display: flex;
+    display: inline-block;
     vertical-align: top;
-    
+    width: 100%;
 }
 
 .first{
     float:left;
     vertical-align: middle;
     margin-left:20px;
+    width: 40%;
 }
 .first img{
     width: 20px;
@@ -42,11 +43,23 @@ header{
     margin-right: 15px;
 }
 .second{
-    text-align: center;
+    position: absolute;
+  
+    
+    display: inline;
+    
 }
+
 .third{
-    text-align: right;
+    display: inline;
+    position:absolute;
+    right:0;
+    top:0;
 }
+.third button{
+    margin-top:3px;
+}
+
 #logo{
     width: 200px;
     
