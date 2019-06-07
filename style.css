@@ -259,15 +259,16 @@ a:hover{
 }
 .story{
     background-image: url(img/image.png);
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
     display: inline-block;
-    width: 725px;
+    width: 720px;
 }
 .story p{
     width: 173px;
     font-size: 14px;
     float: left;
-    margin-top:17%;
+    margin-top:15%;
     margin-left: 5px;
 }
 .articlee1{
@@ -304,6 +305,3 @@ a:hover{
 
 }
 
-.section-a{
-    width: 
-}
