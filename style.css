@@ -299,10 +299,9 @@ a:hover{
 }
 
 .sections{
-    width: 1200px;
-    height: 337px;
+  
     display: inline;
-    margin-top: 10px;
+
 
 }
 .section-a{
@@ -320,7 +319,53 @@ a:hover{
 	font-size: 14px;
 	
 }
+.header-b{
+   margin-top: 15px;
+  
+}
+.header-b img{
+    
+    width: 200px;
+    
+}
+.border{
+    margin-top:20px;
+    border-top: 1px solid gray;
+    
+    border-bottom: 1px solid gray;
+}
 
 .sec-right{
+border-left:1px solid #767676;
+width: 200px;
+float: right;
 
+}
+
+.sec-right h3{
+font-size:13px;
+font-weight: 700;
+margin-left:20px;
+
+}
+.firstlist a{
+    margin-left:20px;
+    font-size: 16px;
+    color:black;
+    font-weight: 700;
+}
+.secondlist a{
+    margin-left:20px;
+    font-size: 13px;
+    color:black;
+    
+}
+.thirdlist{
+border-top: 1px solid gray;
+}
+.thirdlist a{
+    
+    margin-left:20px;
+    font-size: 13px;
+    color:black;
 }
