@@ -410,3 +410,18 @@ footer{
   display: inline;
   
 }
+.facebook{
+  display: inline-block;
+
+}
+.comments{
+  margin-top:20px;
+  width: 50%;
+  float:left;
+}
+.ico{
+  margin-top:20px;
+  text-align: right;
+  width: 50%;
+  float:right;
+}
