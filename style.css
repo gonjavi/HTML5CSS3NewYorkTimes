@@ -372,20 +372,35 @@ border-top: 1px solid gray;
 
 
 footer{
-    margin: 0 34px;
-    padding: 0 40px 9px;
-    width: 1281px;
+    
+    width: 100%;
     height: 76px;
-
+    margin:100px 34px 0 34px;
+    
 }
 
 .n-footer{
     padding: 9px 0 0;
     width: 1200px;
     height: 76px;
-    display: inline;
+    display: inline-block;
+    text-align: center;
+    
+
+}
+
+.n-footer a{
+  font-size:12px;
+  color:gray;
+  margin-left:15px;
 }
 
 .copyright{
-    float: left;
+  display: inline;
+  
+}
+
+.copyright li{
+  display: inline;
+  
 }
