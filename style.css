@@ -93,6 +93,12 @@ header{
     width: 100%;
     background-color: rgb(247, 247, 247);
     height: 300px;
+    text-align: center;
+}
+.slide img{
+  margin-top:100px;
+  width: 970px;
+  height: 90px;
 }
 
 .title-photo{
