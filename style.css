@@ -425,3 +425,59 @@ footer{
   width: 50%;
   float:right;
 }
+
+/* photos section*/
+.m-photos{
+    width: 1281;
+    height: 1088;
+    background: #ffffff;
+    margin: 45px 34.9px 0;
+    padding: 20px 40.5px 0;
+
+}
+.photos{
+    width: 80%;
+    height: 1068px;
+    background-color: rgb(255, 255, 255);
+}
+.p-title{
+    width: 852px;
+    height: 40px;
+}
+.ptitle p{
+    font-size: 16px;
+    color: black;
+}
+
+.photos-top{
+    width: 852px;
+    height: 679px;
+    padding: 15px 0 0;
+}
+
+.photos-botton{
+    width: 852px;
+    height: 328px;
+    padding: 15px 0 0;
+}
+
+
+.photob{
+    width:272px;
+    height: 321px;
+    float: left;
+}
+
+.photob img{
+    width: 272px;
+    height: 181px;
+    position:relative;
+    float: left;
+}
+
+.right{
+    color:#333333;
+    font-size: 16px;
+    margin: 0 0 0 3px;
+    padding: 15px 0;
+}
