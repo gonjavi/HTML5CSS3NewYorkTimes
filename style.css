@@ -435,14 +435,15 @@ footer{
   display:inline-block;
 }
 .photos{
-    width: 80%;
+    /*width: 80%;*/
+    width: 852px;
     height: 1068px;
     background-color: rgb(255, 255, 255);
     display: inline-block;
     vertical-align: top;
 }
 .p-title{
-    width: 860px;
+    width: 852px;
   
 }
 .ptitle p{
@@ -452,14 +453,16 @@ footer{
 }
 
 .photos-top{
-    width: 90%;
+     /*width: 90%;*/
+     width: 852px;
   
     padding: 15px 0 0;
     border-top:1px solid black;
 }
 
 .photos-botton{
-    width: 90%;
+    /*width: 90%;*/
+    width: 852px;
     height: 328px;
     padding: 15px 0 0;
 }
@@ -470,7 +473,7 @@ footer{
     width:272px;
     height: 321px;
     float: left;
-    margin-right: 15px;
+    margin-right: 12px;
     display: block;
 }
 
@@ -484,9 +487,31 @@ footer{
 .right{
     color:#333333;
     font-size: 16px;
-    margin: 0 0 0 3px;
-    padding: 15px 0;
+    margin: 0 0 0 30px;
+    padding: 15px 0 0 ;
     display: inline-block;
     width: 19%;
     border-top:1px solid black;
+}
+
+.right a{
+    color: #121212;
+    font-size: 17px;
+   
+   width: 276px;
+   height: 49px;
+    
+}
+
+.right li{
+    width: 315px;
+    height: 81px;
+    padding: 15px 0;
+    border-top:1px solid gray;
+}
+
+a [rel="her"]{
+    width: 296px;
+    height: 74px;
+
 }
