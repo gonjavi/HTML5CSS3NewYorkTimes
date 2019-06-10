@@ -369,3 +369,23 @@ border-top: 1px solid gray;
     font-size: 13px;
     color:black;
 }
+
+
+footer{
+    margin: 0 34px;
+    padding: 0 40px 9px;
+    width: 1281px;
+    height: 76px;
+
+}
+
+.n-footer{
+    padding: 9px 0 0;
+    width: 1200px;
+    height: 76px;
+    display: inline;
+}
+
+.copyright{
+    float: left;
+}
