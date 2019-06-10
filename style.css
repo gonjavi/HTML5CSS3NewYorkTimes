@@ -428,44 +428,50 @@ footer{
 
 /* photos section*/
 .m-photos{
-    width: 1281;
-    height: 1088;
+    width: 100%;
     background: #ffffff;
     margin: 45px 34.9px 0;
     padding: 20px 40.5px 0;
-
+  display:inline-block;
 }
 .photos{
     width: 80%;
     height: 1068px;
     background-color: rgb(255, 255, 255);
+    display: inline-block;
+    vertical-align: top;
 }
 .p-title{
-    width: 852px;
-    height: 40px;
+    width: 860px;
+  
 }
 .ptitle p{
     font-size: 16px;
     color: black;
+   
 }
 
 .photos-top{
-    width: 852px;
-    height: 679px;
+    width: 90%;
+  
     padding: 15px 0 0;
+    border-top:1px solid black;
 }
 
 .photos-botton{
-    width: 852px;
+    width: 90%;
     height: 328px;
     padding: 15px 0 0;
 }
 
 
 .photob{
+  margin-top:10px;
     width:272px;
     height: 321px;
     float: left;
+    margin-right: 15px;
+    display: block;
 }
 
 .photob img{
@@ -480,4 +486,7 @@ footer{
     font-size: 16px;
     margin: 0 0 0 3px;
     padding: 15px 0;
+    display: inline-block;
+    width: 19%;
+    border-top:1px solid black;
 }
