@@ -310,6 +310,14 @@ a:hover {
 }
 .header-b img {
   width: 200px;
+
+
+}
+
+.header-b a[rel="home"]{
+  color: #6288A5;
+  font-size: 11px;
+  margin-left: 73%;
 }
 .border {
   margin-top: 20px;
