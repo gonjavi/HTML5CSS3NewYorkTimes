@@ -204,6 +204,7 @@ a:hover {
 .sidebar a {
   display: inline;
   overflow: auto;
+
 }
 
 .sidebar img {
@@ -212,7 +213,7 @@ a:hover {
   float: left;
   margin-top: 5px;
 }
-.sidebar span {
+.sidebar figcaption {
   width: 125px;
   vertical-align: middle;
   min-height: 75px;
