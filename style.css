@@ -141,6 +141,18 @@ section p {
   margin-top: 10px;
 }
 
+.section {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  font-size: 1.1875rem;
+  display: block;
+}
+.section p {
+  margin-top: 10px;
+}
+
 a [rel|="pdecoration"] {
   text-decoration: underline !important;
 }
@@ -475,7 +487,4 @@ footer {
   border-bottom: 1px solid gray;
 }
 
-a [rel="her"] {
-  width: 296px;
-  height: 74px;
-}
+
