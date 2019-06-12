@@ -6,4 +6,4 @@ This collaborative project is based on this <a href="https://www.nytimes.com/201
 <a href="https://github.com/trox115">António Fernandes</a> ---
 <a href="https://github.com/gonjavi/">Gonzalo Javier Mancilla</a>
 
-<h1>Link of the live version:</h1>https://raw.githack.com/gonjavi/newyorktimes/development/index.html
+<h1>Link of the live version:</h1>https://gonjavi.github.io/newyorktimes/
