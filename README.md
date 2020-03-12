@@ -1,9 +1,41 @@
-<h1><b>Project: Basic HTML - New York Times</b></h1>
-This collaborative project is based on this <a href="https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0">new york times article</a> , as a part of the assignment for microverse using concepts of html and css, to create the article page.
+#Project: Basic HTML - New York Times
+
+This collaborative project is based on the <a href="https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0">new york times website</a> , as a part of the assignment for microverse using concepts of html and css, to create the article page.
+
+![screenshot](./times.png)
 
 
-<h1><b> Authors:</b></h1>
-<a href="https://github.com/trox115">António Fernandes</a> ---
-<a href="https://github.com/gonjavi/">Gonzalo Javier Mancilla</a>
+## Built With
 
-<h1>Link of the live version:</h1>https://raw.githack.com/gonjavi/newyorktimes/development/index.html
+- HTML5
+- CSS3
+
+## Authors
+
+👤 **Antonio Fernandes**
+
+- Github: [@github/trox115](https://github.com/trox115)
+
+👤 **Gonza Javier Mancilla**
+
+- Github: [@github/gonjavi](https://github.com/gonjavi)
+- Linkedin: [linkedin](https://www.linkedin.com/in/g-javier-mancilla-a686a9178/)
+
+## Live Demo
+
+[Live Demo Link](https://raw.githack.com/gonjavi/newyorktimes/development/index.html)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
