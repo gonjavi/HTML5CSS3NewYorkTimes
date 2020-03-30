@@ -21,7 +21,7 @@ This collaborative project is based on the <a href="https://www.nytimes.com/2014
 👤 **Gonza Javier Mancilla**
 
 - Github: [@gonjavi](https://github.com/gonjavi)
-- Linkedin: [@g-javier-mancilla](https://www.linkedin.com/in/g-javier-mancilla-a686a9178/)
+- Linkedin: [@g-javier-mancilla](https://www.linkedin.com/in/g-mancillla)
 
 ## Live Demo
 
