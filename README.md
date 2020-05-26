@@ -25,7 +25,7 @@ This collaborative project is based on the <a href="https://www.nytimes.com/2014
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/gonjavi/newyorktimes/development/index.html)
+[Live Demo Link](https://gonjavi.github.io/HTML5CSS3NewYorkTimes/)
 
 
 ## 🤝 Contributing
